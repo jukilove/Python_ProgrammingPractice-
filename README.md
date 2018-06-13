@@ -1,7 +1,6 @@
 # Course - *Automate the Boring Stuff with Python*
 
-**Automate the Boring Stuff with Python** is a free online course by **Al Sweigart**. [Link](https://automatetheboringstuff.com/)
-A online video course is also provided via [Udemy.com](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS) 
+**Automate the Boring Stuff with Python** is a free online course by **Al Sweigart**. [Link](https://automatetheboringstuff.com/) A online video course is also provided via [Udemy.com](https://www.udemy.com/automate/?couponCode=FOR_LIKE_10_BUCKS) 
 
 ##Automate the Boring Stuff with Python covers these following contents:
 
