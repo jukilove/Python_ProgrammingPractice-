@@ -1,4 +1,3 @@
-"# Python_ProgrammingPractice-" 
 # Course - *Automate the Boring Stuff with Python*
 
 **Automate the Boring Stuff with Python** is a free online course by **Al Sweigart**. [Link](https://automatetheboringstuff.com/)
