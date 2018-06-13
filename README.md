@@ -32,5 +32,5 @@
 - [ ] Fill out online forms
 
 ## Notes
-**About the Author - Al Sweigart**
-Al Sweigart is a software developer and teaches programming to kids and adults. He has written several books for beginners, including 'Scratch Programming Playground', 'Hacking Secret Ciphers with Python', 'Invent Your Own Computer Games with Python', and 'Making Games with Python & Pygame'.
+**About the Author - Al Sweigart** 
+is a software developer and teaches programming to kids and adults. He has written several books for beginners, including 'Scratch Programming Playground', 'Hacking Secret Ciphers with Python', 'Invent Your Own Computer Games with Python', and 'Making Games with Python & Pygame'.
